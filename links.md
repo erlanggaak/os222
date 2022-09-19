@@ -15,7 +15,23 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+## Week 00
+1. (Video) [Operating Systems: Visual Metaphor at Udacity](https://www.youtube.com/watch?v=SkKqlb0Rvwo&list=PLqoiDr4YpRdm_nzFhCDuj74P8ul5z7SdO&index=2)<br>
+This video playlist will help you understand the operating systems better. It used a toy shop as a visual metaphor of operating systems which will make the learning process felt so much easier.
+
+## Week 01
+1. (Video) [10 Linux Terminal Commands for Beginners](https://www.youtube.com/watch?v=CpTfQ-q6MPU)<br>
+I recommend you to watch this video if you want to gain the fundamental knowledge of Linux commands in less than 14 minutes. The instructor explains it really well and easy to understand. 
+
+2. (Video) [Learning Awk Is Essential For Linux Users](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
+This video gives a clear demonstration of AWK. The explanation is really straight to the point.
+
+3. (Video) [Vim Basics in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
+The tutorial given by the instructor helped me understand the vim commands after reading the documentation. This video will be very helpful for those who prefer learning things from tutorial. 
+
+## Week 02
+1. (Video) [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA&list=LL&index=3&t=3s)<br>
+This video explains cyber security and cyber attacks in a very simple way. It is easier to understand about cyber attacks through this video because it gives you an illustration about how things happened.
+
+2. (Video) [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc&list=LL&index=1&t=198s)<br>
+This video helps me understand asymmetric encryption (and symmetric encryption) better. This video explains how asymmetric encryption works with a very easy-to-understand example. 
