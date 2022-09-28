@@ -3,7 +3,7 @@
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
+[LINKS]({{ site.baseurl }}{{site.mylinks}}) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
