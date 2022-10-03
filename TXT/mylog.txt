@@ -54,5 +54,5 @@ ZCZC W04 10 L42 TXT/mypubkey.txt
 ZCZC W04 60 L43 TXT/myrank.txt, including peer review
 ZCZC W04 15 L44 TXT/myscript.sh related.
 ZCZC W04 20 L01 SCELE/Discord related
-ZCZC W04  30 L25 C-language including Makefile
+ZCZC W04 30 L25 C-language including Makefile
 ZCZC W04 15 L45 TXT/SHA256SUM related
