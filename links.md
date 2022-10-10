@@ -50,3 +50,10 @@ This video explains about pointers in C. It's a very short video but still can h
 3. (Article) [Linux Memory Management](https://www.javatpoint.com/linux-memory-management#:~:text=The%20subsystem%20of%20Linux%20memory,programs%20and%20kernel%20internal%20structures.)<br>
 Linux memory management subsystem is a complicated system with several configurable settings. This website will be very usefull to learn that memory management in linux <br>
 
+## Week 05
+1. (Video) [Operating Systems Chapter 9 - Virtual Memory](https://www.youtube.com/watch?v=KTx9RNfyFO8) <br>
+This video is Operating System Lecture from Taif University. It explains Silberschatz slides about Virtual Memory. Very recommended if you prefer learning from a video than just reading the slides.
+2. (Video) [Endianness in C | Big Endian vs Little Endian](https://www.youtube.com/watch?v=a9lVoThjV7o) <br>
+This video explains the difference between Big Endian and Little Endian vclearly. It also gives you the visualization so it's easier to comprehend.
+3. (Article) [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM.
