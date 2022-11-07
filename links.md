@@ -57,3 +57,9 @@ This video is Operating System Lecture from Taif University. It explains Silbers
 This video explains the difference between Big Endian and Little Endian vclearly. It also gives you the visualization so it's easier to comprehend.
 3. (Article) [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM.
+
+## Week 06
+1. (Video) [Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=O3EyzlZxx3g) <br>
+This video helps me understand the difference between process and thread in less than 4 minutes. The instructor uses analogy so it's easier to understand.
+2. (Playlist) [Processes | Chapter-3 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn) <br>
+This playlist will help you understand this week's material better. The explanation is really clear and simple. 
