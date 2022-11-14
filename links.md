@@ -63,3 +63,9 @@ A computer can address more memory than the amount physically installed on the s
 This video helps me understand the difference between process and thread in less than 4 minutes. The instructor uses analogy so it's easier to understand.
 2. (Playlist) [Processes | Chapter-3 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn) <br>
 This playlist will help you understand this week's material better. The explanation is really clear and simple. 
+
+## Week 07
+1. (Video) [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://www.youtube.com/watch?v=UVo9mGARkhQ) <br>
+This short video explains about deadlock in a very simple way. I understand the conditions for deadlock to occur better after watching this video.
+2. (Playlist) [Process Synchronization | Chapter-6 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) <br>
+This playlist will help you understand process synchronization better. The explanation is really clear and simple.
