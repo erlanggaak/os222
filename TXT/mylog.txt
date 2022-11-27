@@ -105,3 +105,13 @@ ZCZC W08 30 L32 YouTube: watching OS related topics
 ZCZC W08 20 L41 TXT/mylog.txt related
 ZCZC W08 30 L43 TXT/myrank.txt related, including peer review
 ZCZC W08 100 L99 Face-to-face lecture
+ZCZC W09 30 L01 SCELE/Discord related
+ZCZC W09 90 L05 Quiz related including studying (both Weekly and Pop Quiz)
+ZCZC W09 30 L06 Readings, Watchings, and Demos
+ZCZC W09 30 L08 OS Chat related with Friends
+ZCZC W09 240 L09 Weekly Assignments
+ZCZC W09 30 L32 YouTube: watching OS related topics
+ZCZC W09 20 L41 TXT/mylog.txt related
+ZCZC W09 30 L43 TXT/myrank.txt related, including peer review
+ZCZC W09 200 L99 Face-to-face lecture
+

@@ -69,3 +69,16 @@ This playlist will help you understand this week's material better. The explanat
 This short video explains about deadlock in a very simple way. I understand the conditions for deadlock to occur better after watching this video.
 2. (Playlist) [Process Synchronization | Chapter-6 | Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) <br>
 This playlist will help you understand process synchronization better. The explanation is really clear and simple.
+
+## WEEK 08
+1. [Ways to Fix “No Space Left on Device” Error in Linux](https://helpdeskgeek.com/linux-tips/top-3-ways-to-fix-no-space-left-on-device-error-in-linux/#:~:text=The%20most%20probable%20cause%20of,the%20lsof%20and%20grep%20commands.)<br>
+Getting a “No place left on device error” explains very little. Why is this error message showing up? Why can’t you create new files despite having sufficient space on the disk? And most importantly, how do you fix it?
+2. [Final Preparations - How to build LFS 11.2](https://www.youtube.com/watch?v=PkMA_2NmF8c&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&index=5)<br>
+Final preperation how to build LFS
+
+## Week 09
+1. [How to build Linux From Scratch 11.2 (Chap 6-7)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating system by installing Linux From Scratch 11.2.
+2. [How to Use the chroot Command on Linux](https://www.howtogeek.com/441534/how-to-use-the-chroot-command-on-linux/)<br>
+A chroot environment provides functionality similar to that of a virtual machine, but it is a lighter solution. The captive system doesn’t need a hypervisor to be installed and configured, such as VirtualBox or Virtual Machine Manager.
+
