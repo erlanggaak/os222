@@ -1,4 +1,4 @@
----
+\---
 permalink: /LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
@@ -82,3 +82,8 @@ This series of videos shows how you can take a Windows 10 PC (or with any other 
 2. [How to Use the chroot Command on Linux](https://www.howtogeek.com/441534/how-to-use-the-chroot-command-on-linux/)<br>
 A chroot environment provides functionality similar to that of a virtual machine, but it is a lighter solution. The captive system doesn’t need a hypervisor to be installed and configured, such as VirtualBox or Virtual Machine Manager.
 
+## Week 10
+1. [How to build Linux From Scratch 11.2 (Chap 8)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating system by installin>
+2. [Glibc errors make check & install in LFS 8.4](https://www.linuxquestions.org/questions/linux-from-scratch-13/glibc-errors-make-check-and-install-in-lfs-8-4-a-4175650815/)<br>
+A forum discuss about Glibc error that helps me.
